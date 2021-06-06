@@ -1,15 +1,16 @@
 
 # Photo-Editor
 
-I using the Third Party Libs to make the Photo editor. 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/46319748/120933489-0c092300-c718-11eb-83e8-7fb50d63eb45.gif)
 
-https://user-images.githubusercontent.com/46319748/120933285-0959fe00-c717-11eb-96a2-e2dff1617fcb.mov
+
+I using the Third Party Libs to make the Photo editor. 
 
 https://img.ly/docs/pesdk/
 
 Highlights:
 1. Add the SDK in our project.
-2. Add Custom UI and Functioanlity.
+2. Add Custom UI and Functionality.
 3. Save the edited images in photos app.
 
 Steps to use :
