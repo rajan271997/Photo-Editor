@@ -16,6 +16,9 @@ Highlights:
 Steps to use :
 
 1. Download the project or clone the github project using git.
-2. Change the directory to the Project directory and run the command :
+2. Change the directory to the Project Workpace directory and run the command :
 "pod install"
 
+Build and run the project.
+
+Enjoy!!
