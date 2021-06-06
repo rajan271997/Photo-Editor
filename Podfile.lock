@@ -1,0 +1,20 @@
+PODS:
+  - imglyKit (10.24.0)
+  - PhotoEditorSDK (10.24.0):
+    - imglyKit (= 10.24.0)
+
+DEPENDENCIES:
+  - PhotoEditorSDK
+
+SPEC REPOS:
+  trunk:
+    - imglyKit
+    - PhotoEditorSDK
+
+SPEC CHECKSUMS:
+  imglyKit: a40e1f569642aee7e7f126d4f8c30a3ed9ba8ba1
+  PhotoEditorSDK: 9de2c2ebdb626c8c3366ed4135f14debdcf2fce2
+
+PODFILE CHECKSUM: c57cc2b7c14aac39d5f12f1703bcec3edd01d437
+
+COCOAPODS: 1.10.0
